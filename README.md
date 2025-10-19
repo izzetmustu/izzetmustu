@@ -7,3 +7,8 @@
 
 <a href="https://github.com/izzetmustu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzetmustu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
+
+### 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=izzetmustu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=izzetmustu&theme=midnight-purple&hide_border=false)<br/>
