@@ -10,4 +10,4 @@
 
 ### 📈 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=izzetmustu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=izzetmustu&theme=midnight-purple&hide_border=false)<br/>
